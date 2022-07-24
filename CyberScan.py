@@ -14,7 +14,7 @@
 #  Foundation, Inc., 51 Franklin Street, Fifth Floor Boston,
 #  MA 02110-1301, USA.
 #
-#  Author: Mohamed BEN ALI
+#  Author: AbolfazlFarhadzade 
 
 import os
 import sys
@@ -41,7 +41,7 @@ __description__ = '''\
   ___________________________________________
 
   CyberScan | v.''' + __version__ + '''
-  Author: BEN ALI Mohamed
+  Author: AbolfazlFarhadzade 
   ___________________________________________
 '''
 
@@ -65,8 +65,8 @@ def usage():
 	It is just for server testing script. Your ip is visible. \n
 	  ___________________________________________
 	 
- 	  CyberScan | v.1.1.1   
-	  Author: BEN ALI Mohamed
+ 	  CyberScan | v.1.1.2
+	  Author: AbolfazlFarhadzade 
  	  ___________________________________________
 	
 
