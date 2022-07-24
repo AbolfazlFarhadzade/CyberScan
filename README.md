@@ -266,7 +266,6 @@ Contact
 
 
 
-[10.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [20.1]: https://s6.uupload.ir/files/instagram_logo_2022.svg_hsy.png (facebook icon with padding)
 [30.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
@@ -282,9 +281,6 @@ Contact
 
 
 #### AbolfazlFarhadzade 
-[![alt text][10.1]][10]
-[![alt text][20.1]][20]
-[![alt text][30.1]][30]
 ##### Email : abolfazl15farhadzade@gmail.com
 
 
