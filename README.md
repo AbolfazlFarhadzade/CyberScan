@@ -8,7 +8,7 @@ can analyse packets , decoding  , scanning ports, pinging and geolocation of an 
 Screenshots
 ----
 
-![Screenshot](https://github.com/medbenali/CyberScan/blob/master/images/demo.png)
+![Screenshot](https://s6.uupload.ir/files/screenshot_20220715_172600_com.huawei.himovie.overseas_h8yk.jpg)
 
 Operating Systems Supported
 ---- 
@@ -22,7 +22,7 @@ Installation
 
 You can download CyberScan by cloning the [Git](https://github.com/medbenali/CyberScan) repository:
 
-    git clone https://github.com/medbenali/CyberScan.git
+    git clone https://github.com/AbolfazlFarhadzade/CyberScan.git
     cd CyberScan/
     python CyberScan.py -v
 
@@ -36,7 +36,7 @@ CyberScan works out of the box with [Python](http://www.python.org/download/) ve
 Make sure you have CyberScan in your machine:
 
 ```sh
-$ git clone https://github.com/medbenali/CyberScan.git
+$ git clone https://github.com/AbolfazlFarhadzade/CyberScan.git
 ```
 
 You can test the installation firing up CyberScan iteratively. These are some useful functions:
